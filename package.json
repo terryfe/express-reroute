@@ -1,0 +1,33 @@
+{
+  "name": "express-reroute",
+  "description": "Rewrite middleware for express, using xregexp's named syntax.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Terry Hanks",
+    "email": "terryfe@gmail.com"
+  },
+  "dependencies": {
+    "xregexp": "*"
+  },
+  "keywords": [
+    "express",
+    "rewrite",
+    "middleware"
+  ],
+  "publishConfig": {
+    "tag": "1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/terryfe/express-reroute"
+  },
+  "main": "index",
+  "scripts": {
+    "prepublish": "npm prune",
+    "test": "make test"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "_id": "express-reroute@1.0.0"
+}
