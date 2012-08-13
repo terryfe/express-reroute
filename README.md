@@ -6,6 +6,7 @@ Rewrite middleware for express 3.0 ,using xregexp's named syntax
 Usage
 ---------------
 Require it:
+
     var reroute = require('express-reroute');
 
 Define a rerwrite table:
