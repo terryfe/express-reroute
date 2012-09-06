@@ -1,7 +1,7 @@
 {
   "name": "express-reroute",
   "description": "Rewrite middleware for express, using xregexp's named syntax.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Terry Hanks",
     "email": "terryfe@gmail.com"
@@ -15,7 +15,7 @@
     "middleware"
   ],
   "publishConfig": {
-    "tag": "1.0"
+    "tag": "1.0.2"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,5 @@
   "engines": {
     "node": "*"
   },
-  "_id": "express-reroute@1.0.1"
+  "_id": "express-reroute@1.0.2"
 }
