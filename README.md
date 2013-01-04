@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/terryfe/express-reroute.png)](http://travis-ci.org/terryfe/express-reroute)
 express-reroute
 ===============
 
